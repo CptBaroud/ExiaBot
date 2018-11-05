@@ -1,0 +1,6 @@
+commands/useless/steam.js
+json/steam.json
+node_modules/*
+node_modules/
+json/config.json
+.biblio
